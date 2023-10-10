@@ -33,15 +33,6 @@
         @endforeach
     </tbody>
 
-    <tfoot>
-        <tr>
-            <th> TOTAL </th>
-            <th>{{ $jumlah_data }}</th>
-            <th colspan="1"></th>
-            <th>{{ $total_harga }}</th>
-        </tr>
-    </tfoot>
-
    
 </table>
 </body>
